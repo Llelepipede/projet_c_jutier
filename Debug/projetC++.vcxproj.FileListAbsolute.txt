@@ -1,0 +1,2 @@
+D:\cours_ynov\Cours_Ingesup_C\c++\projetC++\Debug\projetC++.exe
+D:\cours_ynov\Cours_Ingesup_C\c++\projetC++\Debug\projetC++.pdb
